@@ -14,6 +14,6 @@ public class DemoTest2 {
 
 		int d = 20;
 		int g = 40;
-		System.out.println( c + g);
+		System.out.println( d + g);
 	}
 }
